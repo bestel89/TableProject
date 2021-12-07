@@ -1,3 +1,27 @@
 body {
     font-family: Arial;
+    background-color: gainsboro;
+}
+
+h1,
+h2,
+table {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 650px;
+}
+
+h1 {
+
+}
+
+h2 {
+    color: rebeccapurple;
 }
